@@ -17,7 +17,7 @@ public class LinkExample{
         driver = new ChromeDriver();
         //manage size of the widow
         driver.manage().window().maximize();
-        driver.get("https://www.leafground.com/dashboard.xhtml");
+        driver.get("https://www.leafground.com/link.xhtml");
 
     }
 
